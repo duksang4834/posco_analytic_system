@@ -5,3 +5,6 @@ def a():
 
 def b():
     return 2
+
+def d():
+    return 4
