@@ -11,3 +11,7 @@ def d():
 
 def e():
     return 5
+
+def c():
+    return 3
+
