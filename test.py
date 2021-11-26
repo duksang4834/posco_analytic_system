@@ -8,3 +8,6 @@ def b():
 
 def d():
     return 4
+
+def e():
+    return 5
